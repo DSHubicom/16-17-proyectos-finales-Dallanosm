@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337921486088",
+    "firebase_url": "https://dshproject-f93e0.firebaseio.com",
+    "project_id": "dshproject-f93e0",
+    "storage_bucket": "dshproject-f93e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337921486088:android:ce5253b1e0326e62",
+        "android_client_info": {
+          "package_name": "com.dallanosm.dshproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337921486088-em3op1ojr8asqgh2ajlf8kbpmd338pvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dallanosm.dshproject",
+            "certificate_hash": "0fca11ce1c2cacc0e91312cde69691d31fdfc927"
+          }
+        },
+        {
+          "client_id": "337921486088-smsojb53p0tjbsgp96108d6lk7rg8n8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOCgmK3aZu2hB5Tjyn1GmXc2tFuT1B2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337921486088-smsojb53p0tjbsgp96108d6lk7rg8n8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
