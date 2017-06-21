@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/etxt_fromdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/from_date" />
+
+    <EditText
+        android:id="@+id/etxt_todate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/to_date" />
+
+    <CheckBox
+        android:id="@+id/is_summer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="is Summer" />
+
+    <Button
+        android:id="@+id/set_alarms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_alarm" />
+
+
+</LinearLayout>
